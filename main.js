@@ -1,2 +1,2 @@
-// alert("")
+alert(name)
 var name = 'Tiago'
